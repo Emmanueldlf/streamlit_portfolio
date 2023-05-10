@@ -15,3 +15,8 @@ with col2:
     """
 
     st.write(content)
+
+content2 = """
+Below are some of my first apps
+"""
+st.info(content2)
